@@ -1,0 +1,476 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "testa.rb",
+			"settings":
+			{
+				"buffer_size": 62,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "game_v5.rb",
+			"settings":
+			{
+				"buffer_size": 484,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "game.rb",
+			"settings":
+			{
+				"buffer_size": 542,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "player.rb",
+			"settings":
+			{
+				"buffer_size": 664,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "player_spec.rb",
+			"settings":
+			{
+				"buffer_size": 184,
+				"line_ending": "Unix",
+				"name": "require_relative 'player'"
+			}
+		},
+		{
+			"file": "/Users/Roger/Library/Application Support/Sublime Text 2/Packages/RubyTest/RubyTest.sublime-settings",
+			"settings":
+			{
+				"buffer_size": 229,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Ruby/Ruby.sublime-build",
+	"command_palette":
+	{
+		"height": 267.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 160.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Roger/Library/Application Support/Sublime Text 2/Packages/User/RubyTest.sublime-settings",
+		"/Users/Roger/ruby_studio/calculator_bonus.rb",
+		"/Users/Roger/Downloads/rubymotion-cookbook-30May/chapters/gettingstarted.md",
+		"/Users/Roger/Library/Application Support/Sublime Text 2/Packages/Ruby/Ruby.sublime-build",
+		"/Users/Roger/Library/Application Support/Sublime Text 2/Packages/RubyTest/RubyTest.sublime-settings",
+		"/Users/Roger/Library/Application Support/Sublime Text 2/Packages/Color Scheme - Default/Made of Code.tmTheme",
+		"/Users/Roger/Library/Application Support/Sublime Text 2/Packages/RSpec (snippets and syntax)/rspec.py",
+		"/Users/Roger/Library/Application Support/Sublime Text 2/Packages/User/run_command.applescript",
+		"/Users/Roger/Desktop/draggable examples/magic tests/naya-pod-deck1.html",
+		"/Users/Roger/Library/Application Support/Sublime Text 2/Packages/User/HTML.sublime-settings",
+		"/Users/Roger/Desktop/draggable examples/:: Animations can have callbacks that trigger on c",
+		"/Users/Roger/Downloads/HTML.sublime-settings",
+		"/Users/Roger/Desktop/draggable examples/magic tests/cardshow2-raph.html",
+		"/Users/Roger/Desktop/draggable examples/magic tests/starcityv6.css",
+		"/Users/Roger/Desktop/draggable examples/magic tests/raphael-test-script.js",
+		"/Users/Roger/Documents/indy/Std Open opponents",
+		"/Users/Roger/Documents/indy/standings-after-round8.html",
+		"/Users/Roger/Documents/indy/standings-after-round7.html",
+		"/Users/Roger/Documents/indy/invitational/indy-results-round1.html",
+		"/Users/Roger/Desktop/Sublime Text/Some lapses in Sublime Text",
+		"/Users/Roger/Desktop/draggable examples/magic tests/cardshow01.svg",
+		"/Users/Roger/Desktop/draggable examples/magic tests/raphael-image-rotate-on-button-click.html",
+		"/Users/Roger/Desktop/draggable examples/magic tests/index.html",
+		"/Users/Roger/Documents/indy/results-round7.html",
+		"/Users/Roger/Documents/indy/invitational/standings-after-round16.html",
+		"/Users/Roger/Documents/indy/pairings-round8.html",
+		"/Users/Roger/Documents/Raphael slide show/raphael-slideshow.html",
+		"/Users/Roger/Documents/indy/results-round1.html",
+		"/Users/Roger/Documents/indy/invitational/standings after round4.html",
+		"/Users/Roger/Documents/indy/invitational/standings-after-round2.html",
+		"/Users/Roger/Documents/indy/pairings-round7.html",
+		"/Users/Roger/Documents/indy/pairings-round6.html",
+		"/Users/Roger/Documents/indy/standings-after-round6.html",
+		"/Users/Roger/Documents/indy/results-round6.html",
+		"/Users/Roger/Documents/indy/standings-after-round5.html",
+		"/Users/Roger/Documents/indy/results-round5.html",
+		"/Users/Roger/Documents/indy/results-round4.html",
+		"/Users/Roger/Documents/indy/pairings-round5.html",
+		"/Users/Roger/Documents/indy/standings-after-round4.html",
+		"/Users/Roger/Documents/indy/standings-after-round3.html",
+		"/Users/Roger/Documents/indy/results-round3.html",
+		"/Users/Roger/Documents/indy/pairings-round4.html",
+		"/Users/Roger/Documents/indy/open-pairings-round3.html",
+		"/Users/Roger/Documents/indy/standings-after-round2.html",
+		"/Users/Roger/Documents/indy/open-results-round2.html",
+		"/Users/Roger/Documents/indy/open-results-round1.html",
+		"/Users/Roger/Desktop/draggable examples/magic tests/easing.html",
+		"/Users/Roger/Desktop/draggable examples/magic tests/raphael-animated-chart.html",
+		"/Users/Roger/Documents/indy/round4-results.html",
+		"/Users/Roger/Documents/indy/indy-results-round1.html",
+		"/Users/Roger/Documents/indy/indy-results-round3.html",
+		"/Users/Roger/Documents/indy/indy-results-round2.html",
+		"/Users/Roger/Exercises/stopwatch/RubyStopWatch/RubyStopWatch/RubyStopWatch/rb_main.rb",
+		"/Users/Roger/Exercises/window-test.rb",
+		"/Users/Roger/Library/Application Support/Sublime Text 2/Packages/User/Ruby.sublime-settings",
+		"/Users/Roger/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/Roger/Library/Application Support/Sublime Text 2/Packages/Objective-C/Objective-C.tmLanguage",
+		"/Users/Roger/Library/Application Support/Sublime Text 2/Packages/Ruby/Ruby.tmLanguage",
+		"/Users/Roger/Library/Application Support/Sublime Text 2/Packages/Color Scheme - Default/Blackboard.tmTheme",
+		"/Users/Roger/yobotics/index.html",
+		"/Users/Roger/Exercises/stopwatch/RubyStopWatch/RubyStopWatch/RubyStopWatch/AppDelegate.rb",
+		"/Users/Roger/Exercises/getting-a-price.rb",
+		"/Users/Roger/Library/Application Support/Sublime Text 2/Packages/Ruby/Miscellaneous.tmPreferences",
+		"/Users/Roger/qualifiers",
+		"/Users/Roger/Exercises/magic.tcgplayer.com-db-cards-8989.jpg",
+		"/Users/Roger/Exercises/dummy-text.html"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\"trebuchet",
+			"a",
+			"family:",
+			"/table",
+			"Nay",
+			"Russell",
+			"Kimb",
+			"Farl",
+			"Kimb",
+			"McDo",
+			"Kimb",
+			"Rauf",
+			"McDo",
+			"Kimb",
+			"King",
+			"McDon",
+			"Raufeisen, Derek",
+			"Kimb",
+			"Russell",
+			"McDonald, ",
+			"McDonald, Daniel M",
+			"Kimball",
+			"special",
+			"fbd",
+			"keyword.other.special-method.ruby",
+			"keyword.control.def.ruby",
+			"keyword.control.def",
+			"meta.tag",
+			"support.class",
+			"WindowMask",
+			"Mask",
+			"cocoa",
+			"constant.other.symbol",
+			"constant.other.symbol.ruby",
+			"constant.other.symbol",
+			"Elite",
+			"SUPER",
+			"\\nFri",
+			"\\nMon",
+			"\\nSat",
+			"\\nSun",
+			"LEA",
+			"show",
+			"show ",
+			"show panel"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Delicious,\"trebuchet",
+			" Elite",
+			" Super",
+			" Fri",
+			" Mon",
+			" Sat",
+			" Sun"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "testa.rb",
+					"settings":
+					{
+						"buffer_size": 62,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								61,
+								61
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "game_v5.rb",
+					"settings":
+					{
+						"buffer_size": 484,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								24,
+								24
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "game.rb",
+					"settings":
+					{
+						"buffer_size": 542,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								26,
+								26
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "player.rb",
+					"settings":
+					{
+						"buffer_size": 664,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								128,
+								128
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "player_spec.rb",
+					"settings":
+					{
+						"buffer_size": 184,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								184,
+								184
+							]
+						],
+						"settings":
+						{
+							"auto_name": "require_relative 'player'",
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/Users/Roger/Library/Application Support/Sublime Text 2/Packages/RubyTest/RubyTest.sublime-settings",
+					"settings":
+					{
+						"buffer_size": 229,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 223.0
+	},
+	"output.tests":
+	{
+		"height": 172.0
+	},
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
